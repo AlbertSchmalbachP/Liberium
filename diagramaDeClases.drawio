@@ -7,19 +7,19 @@
                 <mxCell id="uZIDnsZzmBeUJWSVVtLz-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Libro" vertex="1">
                     <mxGeometry height="286" width="140" x="420" y="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="uZIDnsZzmBeUJWSVVtLz-2" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ ISBN: ID" vertex="1">
+                <mxCell id="uZIDnsZzmBeUJWSVVtLz-2" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ ISBN: String (KEY)" vertex="1">
                     <mxGeometry height="26" width="140" y="26" as="geometry"/>
                 </mxCell>
                 <mxCell id="uZIDnsZzmBeUJWSVVtLz-3" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Título: String" vertex="1">
                     <mxGeometry height="26" width="140" y="52" as="geometry"/>
                 </mxCell>
-                <mxCell id="uZIDnsZzmBeUJWSVVtLz-4" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Genero: String" vertex="1">
+                <mxCell id="uZIDnsZzmBeUJWSVVtLz-6" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Autor: String" vertex="1">
                     <mxGeometry height="26" width="140" y="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="uZIDnsZzmBeUJWSVVtLz-5" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+&amp;nbsp;" vertex="1">
+                <mxCell id="uZIDnsZzmBeUJWSVVtLz-4" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Descripción: String" vertex="1">
                     <mxGeometry height="26" width="140" y="104" as="geometry"/>
                 </mxCell>
-                <mxCell id="uZIDnsZzmBeUJWSVVtLz-6" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+&amp;nbsp;" vertex="1">
+                <mxCell id="uZIDnsZzmBeUJWSVVtLz-5" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Genero: String" vertex="1">
                     <mxGeometry height="26" width="140" y="130" as="geometry"/>
                 </mxCell>
                 <mxCell id="uZIDnsZzmBeUJWSVVtLz-8" parent="uZIDnsZzmBeUJWSVVtLz-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+&amp;nbsp;" vertex="1">
