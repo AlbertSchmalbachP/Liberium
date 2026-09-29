@@ -16,3 +16,8 @@ Se desarrollaran todas las funciones del backend y, a aproximadamente 6 semanas 
 
 1. Estructura HTML y JavaScript
 2. Diseño y animaciones
+
+
+
+## Nota para aplicar en publicaciones
+Al tener un formulario, para mejorar experiencia de usuario, indicar -> "Para que tu publicación llegue a más personas, sugerimos que llenes estos breves formularios: "
